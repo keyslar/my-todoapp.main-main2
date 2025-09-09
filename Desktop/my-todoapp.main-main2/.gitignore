@@ -1,0 +1,15 @@
+# Ignore system files
+*.cab
+*.DAT
+*.exe
+*.dll
+node_modules/
+*.zip
+*.lnk
+AppData/
+Documents/
+Downloads/
+Music/
+Videos/
+Pictures/
+Desktop.ini
